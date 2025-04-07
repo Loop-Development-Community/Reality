@@ -16,12 +16,12 @@ This is a main page use for main discuss if you want to see individual plug-in p
   -  [ ] Reality Parkour Grid Dojo
   -  [ ] Reality Weapons Wars
   -  [ ] Reality Zombie Labrinth
-  -  [ ] Reality SMP
+  -  [ ] Reality Survival Realms
   -  [ ] Reality MapsGraber
   -  [ ] Reality Assign
   -  [ ] [Reality Lib](https://github.com/Loop-Development-Community/realitylib)
   -  [ ] Reality Matchmaking Module
-  -  [ ] Reality EXT
+  -  [ ] [Reality EXT](https://github.com/Loop-Development-Community/realityext)
   -  [ ] [Reality Panel](https://github.com/Loop-Development-Community/realitypanel)
   -  [ ] Reality Web Bases
   -  [ ] Reality APIs
